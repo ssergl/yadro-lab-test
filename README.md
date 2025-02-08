@@ -15,6 +15,7 @@
    Примеры того, как должна выглядеть сборка, представлены ниже.
       ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true)
 
+      ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true)
 
 4. Теперь необходимо запустить контейнер из собранного на предыдущем шаге образа командой:
 
