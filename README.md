@@ -17,7 +17,8 @@
       
    <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%">
 
-      ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true)
+   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true" width="80%" height="80%">
+
 
 4. Теперь необходимо запустить контейнер из собранного на предыдущем шаге образа командой:
 
