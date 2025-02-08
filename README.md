@@ -14,7 +14,7 @@
    Таким образом, будет собран docker образ в текущей директории, которому присвоено имя ***test*** и тэг ***new***.
    Примеры того, как должна выглядеть сборка, представлены ниже.
    
-      ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true | width=48)
+      ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true)
 
       ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true)
 
