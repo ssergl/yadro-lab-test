@@ -15,7 +15,7 @@
    Примеры того, как должна выглядеть сборка, представлены ниже.
    
       ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true)
-   <img src="[путь_к_изображению](https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true)" width="50%" height="50%">
+   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="50%" height="50%">
 
       ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true)
 
