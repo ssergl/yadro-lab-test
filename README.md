@@ -16,14 +16,10 @@
    
   <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
-  <br>
-  <b>Рисунок 1: Описание изображения 1</b>
-</div>
+   </div>
 
 <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
-  <br>
-  <b>Рисунок 2: Описание изображения 2</b>
 </div>
 
 
