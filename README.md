@@ -12,7 +12,7 @@
    docker build -t test:new .
    ```
    Таким образом, будет собран docker образ в текущей директории, которому присвоено имя ***test*** и тэг ***new***.
-   Примеры того, как должна выглядеть сборка, представлены ниже.
+   Иллюстрация сборки представлена ниже.
    
   <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
@@ -31,8 +31,8 @@
    docker run --rm test:new
    ```
    Флаг *--rm* нужен для того, чтобы удалить контейнер после его завершения. Наличие этого флага в команде выше необязательно.
-   Получаем результат, представленный на рисунке ниже.
-   
-   ![text](https://github.com/ssergl/yadro-lab/blob/main/images/docker_run.png?raw=true)
-   
-   
+   Получаем результат, представленный как на скриншоте ниже.
+
+   <div align="center">
+   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/docker_run.png?raw=true" >
+   </div>
