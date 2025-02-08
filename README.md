@@ -14,19 +14,17 @@
    Таким образом, будет собран docker образ в текущей директории, которому присвоено имя ***test*** и тэг ***new***.
    Примеры того, как должна выглядеть сборка, представлены ниже.
    
-  <figure>
   <div align="center">
-    <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%">
-  </div>
-  <figcaption align="center"><b>Рисунок 1: Описание изображения 1</b></figcaption>
-</figure>
+  <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
+  <br>
+  <b>Рисунок 1: Описание изображения 1</b>
+</div>
 
-<figure>
-  <div align="center">
-    <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true" width="80%" height="80%">
-  </div>
-  <figcaption align="center"><b>Рисунок 2: Описание изображения 2</b></figcaption>
-</figure>
+<div align="center">
+  <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
+  <br>
+  <b>Рисунок 2: Описание изображения 2</b>
+</div>
 
 
 4. Теперь необходимо запустить контейнер из собранного на предыдущем шаге образа командой:
