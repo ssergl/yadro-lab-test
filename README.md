@@ -16,7 +16,7 @@
    
   <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
-   br>
+   <br>
   <b>    </b>
 </div>
 
