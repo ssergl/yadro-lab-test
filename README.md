@@ -21,5 +21,5 @@
    Флаг *--rm* нужен для того, чтобы удалить контейнер после его завершения. Наличие этого флага в команде выше необязательно.
    Получаем результат, представленный на рисунке ниже:
    
-   ![text]https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true
+   ![text](https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true)
    
