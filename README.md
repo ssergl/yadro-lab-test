@@ -1,2 +1,4 @@
 # Инструкция для запуска и сборки
-Test task for yadro laboratory
+1. Для начала нужно склонировать данный репозиторий командой:
+  
+```git clone https://github.com/ssergl/yadro-lab.git ```
