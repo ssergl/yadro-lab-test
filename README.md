@@ -22,7 +22,7 @@
 
 <br>
 
-   Затем выполняются остальные шаги сборки.
+      Затем выполняются остальные шаги сборки.
    
 <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
