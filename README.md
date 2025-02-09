@@ -14,15 +14,13 @@
    Таким образом, будет собран docker образ в текущей директории, которому присвоено имя ***test*** и тэг ***new***.
    Пример сборки представлен ниже.
 
-   Первым этапом производится скачивание базового образа gcc:11.3.0.
+   Первым этапом производится скачивание базового образа gcc:11.3.0, а затем выполняются остальные шаги сборки.
    
   <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
 </div>
 
 <br>
-
-      Затем выполняются остальные шаги сборки.
    
 <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build2.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
