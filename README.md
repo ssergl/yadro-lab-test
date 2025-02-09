@@ -12,7 +12,7 @@
    docker build -t test:new .
    ```
    Таким образом, будет собран docker образ в текущей директории, которому присвоено имя ***test*** и тэг ***new***.
-   Иллюстрация сборки представлена ниже.
+   Пример сборки представлен ниже.
    
   <div align="center">
   <img src="https://github.com/ssergl/yadro-lab/blob/main/images/build1.png?raw=true" width="80%" height="80%" style="margin-bottom: 10px; margin-top: 10px;">
